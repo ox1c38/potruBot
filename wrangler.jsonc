@@ -9,7 +9,8 @@
 	"main": "./workers/app.ts",
 	"assets": {},
 	"vars": {
-		"VALUE_FROM_CLOUDFLARE": "Hello from Cloudflare"
+		"VALUE_FROM_CLOUDFLARE": "Hello from Cloudflare",
+		"TELEGRAM_BOT_TOKEN": "7259935123:AAFu1pyaCpoTjnKJpml5uP1L-2Hrfa_nVEg"
 	},
 	"observability": {
 		"enabled": true

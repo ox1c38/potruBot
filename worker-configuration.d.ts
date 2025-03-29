@@ -3,6 +3,7 @@
 declare namespace Cloudflare {
 	interface Env {
 		VALUE_FROM_CLOUDFLARE: "Hello from Cloudflare";
+		TELEGRAM_BOT_TOKEN: string;
 	}
 }
 interface Env extends Cloudflare.Env {}

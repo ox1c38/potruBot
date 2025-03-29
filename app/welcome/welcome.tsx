@@ -49,7 +49,7 @@ export function Welcome({ message }: { message: string }) {
 
 const resources = [
   {
-    href: "https://reactrouter.com/docs",
+    href: "#",
     text: "React Router Docs",
     icon: (
       <svg
@@ -69,7 +69,7 @@ const resources = [
     ),
   },
   {
-    href: "https://rmx.as/discord",
+    href: "#",
     text: "Join Discord",
     icon: (
       <svg
