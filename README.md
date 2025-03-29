@@ -1,5 +1,19 @@
 # Welcome to React Router!
 
+💻 Continue Developing
+Change directories: cd potrubotwrangler
+Start dev server: npm run dev
+Deploy: npm run deploy
+
+📖 Explore Documentation
+https://developers.cloudflare.com/workers
+
+🐛 Report an Issue
+https://github.com/cloudflare/workers-sdk/issues/new/choose
+
+💬 Join our Community
+https://discord.cloudflare.com
+
 A modern, production-ready template for building full-stack React applications using React Router.
 
 ## Features
